@@ -8,7 +8,9 @@ Wity AI builds products that help individuals and organizations think better, cr
 
 ## Our Ecosystem
 
-### <img src="https://www.wity.ai/assets/imgs/vritti-logo-dark.png" width="40"> Wity — *Ideas evolving*
+
+<img src="https://www.wity.ai/assets/imgs/vritti-logo-dark.png" width="40">
+### Wity — *Ideas evolving*
 
 For thinkers, innovators, researchers, creators, and teams who think for a living.
 
@@ -21,6 +23,8 @@ For thinkers, innovators, researchers, creators, and teams who think for a livin
 
 ---
 
+
+<img src="https://uploads.wity.ai/static-uploads/jity-logo-1.png" width="40">
 ### 🕊️ Jity — *Ideas expressed*
 
 For creators, digital product businesses, marketers, and content-led brands.
